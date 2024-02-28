@@ -1,0 +1,5 @@
+return (0);
+	if (node->right == NULL)
+		return (0);
+	return (1);
+}
